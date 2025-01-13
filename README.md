@@ -1,6 +1,3 @@
-# python-postgresql-tutorial.
-Sample project demonstrating how to use Python with PostgreSQL
-
 # Python with PostgreSQL Tutorial
 
 This project demonstrates how to use Python to interact with a PostgreSQL database using the `psycopg2` library.
