@@ -11,5 +11,5 @@ This project demonstrates how to use Python to interact with a PostgreSQL databa
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-postgresql-tutorial.git
+   git clone https://github.com/j-hane/python-postgresql-tutorial.git
    cd python-postgresql-tutorial
