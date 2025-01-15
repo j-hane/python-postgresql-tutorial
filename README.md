@@ -5,7 +5,7 @@ This project demonstrates how to use Python to interact with a PostgreSQL databa
 
 ## Project Structure
 - `insert_data.py`: Inserts sample data into the `employees` table.
-- `fetch_data.py`: Fetches and displays data from the `employees` table.
+- `query.py`: Fetches and displays data from the `employees` table.
 - `requirements.txt`: Lists the Python dependencies.
 - `sample_output.txt`: Contains example output from running the scripts.
 
